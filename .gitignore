@@ -12,3 +12,4 @@
 /.Models
 /combined_features
 .env
+__pycache__/
