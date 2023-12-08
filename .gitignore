@@ -1,0 +1,14 @@
+/.venv
+/checkpoint-backup
+/common_voice_features
+/common_voice_features_med
+/whisper-small-dv
+/whisper-small-sv
+/whisper-small-Swedish
+/whisper-small-Swedish-backup
+/whisper-tiny-sv
+/testpred
+/Models
+/.Models
+/combined_features
+.env

@@ -1,0 +1,21 @@
+python-dotenv
+numpy 
+requests 
+nlpaug
+pydrive
+datasets>=2.6.1
+git+https://github.com/huggingface/transformers
+librosa
+evaluate>=0.3.0
+jiwer
+gradio
+hopsworks
+ipywidgets
+transformers[torch]
+tensorboard
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch 
+torchvision 
+torchaudio 
+
